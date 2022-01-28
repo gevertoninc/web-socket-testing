@@ -1,0 +1,8 @@
+{
+  "name": "WebSocket Testing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "21dbb11a"
+}
